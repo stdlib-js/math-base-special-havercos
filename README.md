@@ -63,6 +63,11 @@ The half-value [versed cosine][versed-cosine] is defined as
 ## Usage
 
 ```javascript
+import havercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-havercos@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-havercos/tags). For example,
+
+```javascript
 import havercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-havercos@v0.1.0-deno/mod.js';
 ```
 
@@ -94,7 +99,7 @@ v = havercos( -3.141592653589793/6.0 );
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-two-pi@deno/mod.js';
-import havercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-havercos@v0.1.0-deno/mod.js';
+import havercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-havercos@deno/mod.js';
 
 var x = linspace( 0.0, TWO_PI, 100 );
 
