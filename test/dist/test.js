@@ -31,12 +31,12 @@ var havercos = require( './../../dist' );
 
 // FIXTURES //
 
-var mediumNegative = require( './../..xtures/julia/medium_negative.json' );
-var mediumPositive = require( './../..xtures/julia/medium_positive.json' );
-var largeNegative = require( './../..xtures/julia/large_negative.json' );
-var largePositive = require( './../..xtures/julia/large_positive.json' );
-var hugeNegative = require( './../..xtures/julia/huge_negative.json' );
-var hugePositive = require( './../..xtures/julia/huge_positive.json' );
+var mediumNegative = require( './../fixtures/julia/medium_negative.json' );
+var mediumPositive = require( './../fixtures/julia/medium_positive.json' );
+var largeNegative = require( './../fixtures/julia/large_negative.json' );
+var largePositive = require( './../fixtures/julia/large_positive.json' );
+var hugeNegative = require( './../fixtures/julia/huge_negative.json' );
+var hugePositive = require( './../fixtures/julia/huge_positive.json' );
 
 
 // TESTS //
