@@ -63,7 +63,7 @@ The half-value [versed cosine][versed-cosine] is defined as
 ## Usage
 
 ```javascript
-import havercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-havercos@esm/index.mjs';
+import havercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-havercos@v0.2.0-esm/index.mjs';
 ```
 
 #### havercos( x )
@@ -99,7 +99,7 @@ v = havercos( -3.141592653589793/6.0 );
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-two-pi@esm/index.mjs';
-import havercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-havercos@esm/index.mjs';
+import havercos from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-havercos@v0.2.0-esm/index.mjs';
 
 var x = linspace( 0.0, TWO_PI, 100 );
 
