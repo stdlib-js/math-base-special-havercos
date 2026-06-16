@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`967c6f5`](https://github.com/stdlib-js/stdlib/commit/967c6f54046d57012a3cb87c3449075d97c37c71) - **test:** migrate `math/base/special/havercos` to ULP-based testing [(#12768)](https://github.com/stdlib-js/stdlib/pull/12768) _(by Philipp Burckhardt)_
 -   [`59c9969`](https://github.com/stdlib-js/stdlib/commit/59c9969a580e74428505ba91634607f110ec71bf) - **bench:** refactor to use string interpolation in `math/base/special` [(#11388)](https://github.com/stdlib-js/stdlib/pull/11388) _(by Karan Anand)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
